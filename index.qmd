@@ -1,0 +1,9 @@
+---
+title: "My Projects"
+format: html
+---
+
+I'm passionate about using data analysis to simplify complex information. Hopefully you enjoy exploring these projects as much as I enjoyed making them!
+
+- Babel Redux: Iraqi Migration Patterns
+- The Indian Navy: Multi-Alignment or Shifting Alignments?
